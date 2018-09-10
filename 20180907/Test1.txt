@@ -1,3 +1,4 @@
 hello, world
 
 I am GUO
+print("Today is Monday")
